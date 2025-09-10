@@ -13,7 +13,7 @@
 
  **Preview**  
 Example chart from the analysis:  
-![Top 10 Countries with Most Netflix Titles](images/top_countries.png)  
+![Top 10 Countries with Most Netflix Titles]("C:\Users\hp\Desktop\netflix images")  
 
  **Requirements**  
 - R ≥ 4.0  
