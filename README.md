@@ -9,11 +9,7 @@
  **Getting Started**  
 1. Place `netflix_cleaned.csv` in your folder  
 2. Open `Netflix_Analysis.R` in RStudio  
-3. Run script for cleaning, plots, summaries  
-
- **Preview**  
-Example chart from the analysis:  
-![Top 10 Countries with Most Netflix Titles]("C:\Users\hp\Desktop\netflix images")  
+3. Run script for cleaning, plots, summaries    
 
  **Requirements**  
 - R ≥ 4.0  
